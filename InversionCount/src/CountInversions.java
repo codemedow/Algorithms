@@ -13,8 +13,8 @@ public class CountInversions {
     private static BigInteger inversions = new BigInteger("0");
     public static void main(String[] args) {
 
-       int [] intArray= readInput("/Users/venkateshsubramanian/Documents/code/courses/Algorithms Coursera -1/Inversions/IntegerArray.txt");
-        //int [] intArray= readInput("/Users/venkateshsubramanian/Documents/code/courses/Algorithms Coursera -1/Inversions/IntegerArrayT23_128.txt");
+       int [] intArray= readInput("/Users/vs/Documents/code/courses/Algorithms Coursera -1/Inversions/IntegerArray.txt");
+        //int [] intArray= readInput("/Users/vs/Documents/code/courses/Algorithms Coursera -1/Inversions/IntegerArrayT23_128.txt");
         System.out.println("Input: " +Arrays.toString(intArray));
         System.out.println("------------------------------------------");
         mergeSort(intArray);
