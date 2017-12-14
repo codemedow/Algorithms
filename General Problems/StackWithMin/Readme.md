@@ -1,0 +1,1 @@
+Min in a stack

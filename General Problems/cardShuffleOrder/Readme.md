@@ -1,0 +1,1 @@
+In cards from A through King of one type, arrange it such that when you spell them out in various language by moving cards from front to back, the card you spelled appears

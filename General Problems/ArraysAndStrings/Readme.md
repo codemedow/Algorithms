@@ -1,0 +1,7 @@
+Various String manipulation algorithms
+
+IsUnique
+CheckPermutations
+URLify
+IsPermutation of Palindrome
+String Compression
